@@ -6,4 +6,12 @@
 
 ## Configuration
 
+## Contributing
+
 ## Testing
+
+## Changelog
+
+## Security
+
+## License
